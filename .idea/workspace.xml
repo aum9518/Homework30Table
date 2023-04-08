@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21fa10dc-a6cd-4706-95df-14c80cec2bbe" name="Changes" comment="created table">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/777a3f90-a63d-4a3a-a324-1df0093b6eb4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/777a3f90-a63d-4a3a-a324-1df0093b6eb4/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/777a3f90-a63d-4a3a-a324-1df0093b6eb4/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/777a3f90-a63d-4a3a-a324-1df0093b6eb4/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/777a3f90-a63d-4a3a-a324-1df0093b6eb4/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
-    </list>
+    <list default="true" id="21fa10dc-a6cd-4706-95df-14c80cec2bbe" name="Changes" comment="created table" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680949099188</updated>
-      <workItem from="1680949107564" duration="13034000" />
+      <workItem from="1680949107564" duration="13797000" />
     </task>
     <task id="LOCAL-00001" summary="created table">
       <created>1680960593965</created>
